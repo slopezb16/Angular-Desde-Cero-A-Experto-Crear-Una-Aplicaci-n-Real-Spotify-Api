@@ -1,0 +1,5 @@
+1.Abrir la Consola
+2.Ejecutar -> npm install
+3.Iniciar la api -> node app.js
+4.Revisar la URL -> http://localhost:3001/api/1.0/tracks
+5.Parar la API -> CTRL + C
