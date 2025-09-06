@@ -1,3 +1,4 @@
+0.Crear el archivo .env -> copiar de .env.example a .env
 1.Abrir la Consola
 2.Ejecutar -> npm install
 3.Iniciar la api -> node app.js
